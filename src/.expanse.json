@@ -311,7 +311,13 @@
       "geometry": null,
       "material": null,
       "parentId": "c2e3e557-dec1-4c49-8345-a98d66d65b35",
-      "components": {},
+      "components": {
+        "8e1bcc84-67f3-4ca0-b928-e5d8840843b1": {
+          "id": "8e1bcc84-67f3-4ca0-b928-e5d8840843b1",
+          "name": "Gesture",
+          "parameters": {}
+        }
+      },
       "gltfModel": {
         "src": {
           "type": "asset",
