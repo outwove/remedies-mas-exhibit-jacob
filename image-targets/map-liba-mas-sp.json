@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 173,
+    "width": 1138,
+    "height": 1517,
+    "isRotated": false,
+    "originalWidth": 1516,
+    "originalHeight": 1517
+  },
+  "imagePath": "image-targets/map-liba-mas-sp_luminance.jpg",
+  "metadata": null,
+  "name": "map-liba-mas-sp",
+  "resources": {
+    "originalImage": "map-liba-mas-sp_original.jpg",
+    "croppedImage": "map-liba-mas-sp_cropped.jpg",
+    "thumbnailImage": "map-liba-mas-sp_thumbnail.jpg",
+    "luminanceImage": "map-liba-mas-sp_luminance.jpg"
+  },
+  "created": 1791314846564,
+  "updated": 1791314857820
+}

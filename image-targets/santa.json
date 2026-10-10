@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3000,
+    "height": 4000,
+    "isRotated": false,
+    "originalWidth": 3000,
+    "originalHeight": 4000
+  },
+  "imagePath": "image-targets/santa_luminance.jpg",
+  "metadata": null,
+  "name": "santa",
+  "resources": {
+    "originalImage": "santa_original.jpg",
+    "croppedImage": "santa_cropped.jpg",
+    "thumbnailImage": "santa_thumbnail.jpg",
+    "luminanceImage": "santa_luminance.jpg"
+  },
+  "created": 1791308800842,
+  "updated": 1791312646924
+}

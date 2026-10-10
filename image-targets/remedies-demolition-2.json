@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 501,
+    "width": 3006,
+    "height": 4009,
+    "isRotated": false,
+    "originalWidth": 4009,
+    "originalHeight": 4009
+  },
+  "imagePath": "image-targets/remedies-demolition-2_luminance.png",
+  "metadata": null,
+  "name": "remedies-demolition-2",
+  "resources": {
+    "originalImage": "remedies-demolition-2_original.png",
+    "croppedImage": "remedies-demolition-2_cropped.png",
+    "thumbnailImage": "remedies-demolition-2_thumbnail.png",
+    "luminanceImage": "remedies-demolition-2_luminance.png"
+  },
+  "created": 1785381096624,
+  "updated": 1785381096624
+}

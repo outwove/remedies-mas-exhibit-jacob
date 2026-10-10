@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 3024,
+    "height": 4032,
+    "isRotated": false,
+    "originalWidth": 3024,
+    "originalHeight": 4032
+  },
+  "imagePath": "image-targets/tiles_luminance.jpg",
+  "metadata": null,
+  "name": "tiles",
+  "resources": {
+    "originalImage": "tiles_original.jpg",
+    "croppedImage": "tiles_cropped.jpg",
+    "thumbnailImage": "tiles_thumbnail.jpg",
+    "luminanceImage": "tiles_luminance.jpg"
+  },
+  "created": 1791233686498,
+  "updated": 1791312679250
+}

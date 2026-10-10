@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 844,
+    "left": 716,
+    "width": 1582,
+    "height": 2109,
+    "isRotated": false,
+    "originalWidth": 3024,
+    "originalHeight": 4032
+  },
+  "imagePath": "image-targets/tile_luminance.jpg",
+  "metadata": null,
+  "name": "tile",
+  "resources": {
+    "originalImage": "tile_original.jpg",
+    "croppedImage": "tile_cropped.jpg",
+    "thumbnailImage": "tile_thumbnail.jpg",
+    "luminanceImage": "tile_luminance.jpg"
+  },
+  "created": 1791233711282,
+  "updated": 1791312639185
+}
