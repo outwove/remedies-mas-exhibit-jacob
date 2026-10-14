@@ -70,6 +70,7 @@ const config = {
     '@8thwall/ecs': 'window.ecs',
   },
   devServer: {
+    //server: 'https',
     open: false,
     compress: true,
     hot: true,
@@ -80,7 +81,7 @@ const config = {
       'Access-Control-Allow-Headers': 'X-Requested-With, content-type, Authorization',
     },
     client: {
-      webSocketURL: 'ws://0.0.0.0/ws',
+      //webSocketURL: 'wss://0.0.0.0/ws', 
       overlay: {
         warnings: false,
         errors: true,

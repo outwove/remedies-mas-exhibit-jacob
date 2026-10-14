@@ -331,6 +331,71 @@
       },
       "name": "church_v007_demolition_v002.glb",
       "order": 2.2238574102680784
+    },
+    "e1029339-bc7b-4718-bf3a-40ff20cfcdf9": {
+      "id": "e1029339-bc7b-4718-bf3a-40ff20cfcdf9",
+      "position": [
+        -1.8325089808282289,
+        0,
+        -0.0071103640097389675
+      ],
+      "rotation": [
+        -0.7071067811865475,
+        0,
+        0,
+        0.7071067811865476
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "map-liba-mas-sp",
+      "imageTarget": {
+        "name": "map-liba-mas-sp"
+      },
+      "order": 9.272819202636267
+    },
+    "496cc697-e78b-4bcf-b562-aed44ad3c097": {
+      "id": "496cc697-e78b-4bcf-b562-aed44ad3c097",
+      "position": [
+        -0.025482656024279793,
+        -0.00756876585753536,
+        0.011343607178114614
+      ],
+      "rotation": [
+        0.7071067811865474,
+        0,
+        0,
+        0.7071067811865477
+      ],
+      "scale": [
+        0.15683311054152432,
+        0.19999999999999984,
+        0.16269039495375634
+      ],
+      "parentId": "e1029339-bc7b-4718-bf3a-40ff20cfcdf9",
+      "components": {
+        "8e1bcc84-67f3-4ca0-b928-e5d8840843b1": {
+          "id": "8e1bcc84-67f3-4ca0-b928-e5d8840843b1",
+          "name": "Gesture",
+          "parameters": {}
+        }
+      },
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/common/map_models.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      },
+      "name": "Map_Model",
+      "order": 2.394208923921332
     }
   },
   "spaces": {
